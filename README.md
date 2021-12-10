@@ -1,5 +1,5 @@
 # C-OS-es27-messages-queue
-Una coda di messaggi viene creata e letta da 2 processi P1 e P2.
+Una coda di messaggi viene creata e letta da dei processi.
 
 P1:
 1. crea la coda di messaggi
